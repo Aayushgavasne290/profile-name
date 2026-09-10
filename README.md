@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in modern web technologies, blockchain development, and DevOps practices. I thrive on building scalable solutions and continuously expanding my technical skillset.
+I'm a passionate full-stack developer with expertise in modern web technologies,  and DevOps practices. I thrive on building scalable solutions and continuously expanding my technical skillset.
 
-- 🔭 **Currently Working On:** BlockVote – A secure blockchain-based voting system
+
 - 🌱 **Currently Learning:** Jenkins, Docker, CI/CD, AWS, azure
 - 💡 **Interests:** Clean architecture, microservices, and solving real-world problems
 - 🤝 **Open To:** Collaborating on MERN, FastAPI, DevOps pipelines, 
@@ -44,9 +44,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,7 +59,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 ---
 
-## 💼 Featured Project: BlockVote
+
 
 
 ## 📊 GitHub Analytics
